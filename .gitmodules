@@ -13,3 +13,6 @@
 [submodule "dataModel.PointOfInteraction"]
 	path = dataModel.PointOfInteraction
 	url = https://github.com/smart-data-models/dataModel.PointOfInteraction.git
+[submodule "dataModel.User"]
+	path = dataModel.User
+	url = https://github.com/smart-data-models/dataModel.User.git
