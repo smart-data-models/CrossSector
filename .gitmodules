@@ -13,3 +13,6 @@
 [submodule "dataModel.User"]
 	path = dataModel.User
 	url = https://github.com/smart-data-models/dataModel.User.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
