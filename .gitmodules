@@ -16,3 +16,6 @@
 [submodule "dataModel.Device"]
 	path = dataModel.Device
 	url = https://github.com/smart-data-models/dataModel.Device.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
