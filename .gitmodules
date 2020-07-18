@@ -22,3 +22,6 @@
 [submodule "dataModel.KeyPerformanceIndicator"]
 	path = dataModel.KeyPerformanceIndicator
 	url = https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator.git
+[submodule "dataModel.PointOfInteraction"]
+	path = dataModel.PointOfInteraction
+	url = https://github.com/smart-data-models/dataModel.PointOfInteraction.git
