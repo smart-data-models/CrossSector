@@ -25,3 +25,6 @@
 [submodule "dataModel.SatelliteImagery"]
 	path = dataModel.SatelliteImagery
 	url = https://github.com/smart-data-models/dataModel.SatelliteImagery.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
