@@ -28,3 +28,6 @@
 [submodule "dataModel.SocialMedia"]
 	path = dataModel.SocialMedia
 	url = https://github.com/smart-data-models/dataModel.SocialMedia.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
