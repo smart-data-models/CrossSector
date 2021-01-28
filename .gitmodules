@@ -1,6 +1,3 @@
-[submodule "dataModel.IssueTracking"]
-	path = dataModel.IssueTracking
-	url = https://github.com/smart-data-models/dataModel.IssueTracking.git
 [submodule "dataModel.KeyPerformanceIndicator"]
 	path = dataModel.KeyPerformanceIndicator
 	url = https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator.git
