@@ -31,3 +31,6 @@
 [submodule "dataModel.Multimedia"]
 	path = dataModel.Multimedia
 	url = https://github.com/smart-data-models/dataModel.Multimedia.git
+[submodule "dataModel.PointOfInteraction"]
+	path = dataModel.PointOfInteraction
+	url = https://github.com/smart-data-models/dataModel.PointOfInteraction.git
