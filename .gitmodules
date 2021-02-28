@@ -31,3 +31,6 @@
 [submodule "dataModel.Battery"]
 	path = dataModel.Battery
 	url = https://github.com/smart-data-models/dataModel.Battery.git
+[submodule "dataModel.Device"]
+	path = dataModel.Device
+	url = https://github.com/smart-data-models/dataModel.Device.git
