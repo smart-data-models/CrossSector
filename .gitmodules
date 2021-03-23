@@ -34,3 +34,6 @@
 [submodule "dataModel.KeyPerformanceIndicator"]
 	path = dataModel.KeyPerformanceIndicator
 	url = https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator.git
+[submodule "dataModel.Multimedia"]
+	path = dataModel.Multimedia
+	url = https://github.com/smart-data-models/dataModel.Multimedia.git
