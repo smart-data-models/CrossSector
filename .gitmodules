@@ -34,3 +34,6 @@
 [submodule "dataModel.QueueManagement"]
 	path = dataModel.QueueManagement
 	url = https://github.com/smart-data-models/dataModel.QueueManagement.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
