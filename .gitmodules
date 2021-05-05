@@ -40,3 +40,6 @@
 [submodule "dataModel.DistributedLedgerTech"]
 	path = dataModel.DistributedLedgerTech
 	url = https://github.com/smart-data-models/dataModel.DistributedLedgerTech.git
+[submodule "dataModel.MachineLearning"]
+	path = dataModel.MachineLearning
+	url = https://github.com/smart-data-models/dataModel.MachineLearning.git
