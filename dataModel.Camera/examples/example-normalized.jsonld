@@ -1,0 +1,67 @@
+{
+  "id": "urn:ngsi-ld:Smart Data Models-Camera",
+  "type": "Camera",
+  "cameraName": {
+    "type": "string",
+    "value": "Cam2"
+  },
+  "streamURL": {
+    "type": "string",
+    "value": "https://drive.google.com/file/d/1eNmgWDvb2R34o03cZ9dPXrtEvsreQzQ4/view?usp=sharing"
+  },
+  "cameraUsage": {
+    "type": "string",
+    "value": "SURVEILLANCE"
+  },
+   "cameraType": {
+    "type": "string",
+    "value": "FIXED"
+  },
+ "startDateTime": {
+    "type": "string",
+    "format": "date-time",
+    "value": "2021-05-11T06:30:00.020Z"
+  },
+  "location": {
+    "type": "Object",
+    "coordinates":
+    {
+      "type":"array",
+      "value":[23.831796,91.28076]
+    }
+  },
+  "cameraOrientation": {
+    "type": "Object",
+    "comments":{
+        "type":"string",
+        "value":"Camera facing RSBhawan"},
+    "annotatedMap":{
+        "type":"string",
+        "value":"https://drive.google.com/file/d/1RXDGogU5UMmzRppqFaNKTzcr69Kl0wjb/view?usp=sharing"}
+  },
+  "endDateTime": {
+    "type": "string",
+    "format": "date-time",
+    "value": "2021-05-11T06:35:20.065Z"
+  },
+  "cameraNum": {
+    "type": "Property",
+    "value": 2
+  },
+  "imageSnapshot": {
+    "type": "string",
+    "value": "https://drive.google.com/file/d/1cLMYzvbaciGcRRD0HV3MAoK4XbNkOukr/view?usp=sharing"
+  },
+  "streamName": {
+    "type": "string",
+    "value": "Agartala_OrientChowmuhani_Surv_Fixed_RSBhawan_Cam2"
+  },
+  "mediaURL": {
+    "type": "string",
+    "value": "https://drive.google.com/file/d/1eNmgWDvb2R34o03cZ9dPXrtEvsreQzQ4/view?usp=sharing"
+  },
+  "@context": [
+    "https://schema.lab.fiware.org/ld/context",
+    "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
