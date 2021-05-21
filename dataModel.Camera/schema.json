@@ -57,9 +57,6 @@
                     "format": "date-time",
                     "description": "Property. Model:'https://schema.org/DateTime'. Reported start time corresponding to this observation."
                 },
-                "location": {
-                    "$ref": "http://geojson.org/schema/Geometry.json"
-                },
                 "imageSnapshot": {
                     "type": "string",
                     "description": "Property. Model:'https://schema.org/Text'. Camera feed snapshot download link for the camera corresponding to this observation"

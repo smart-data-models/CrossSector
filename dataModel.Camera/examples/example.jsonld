@@ -1,5 +1,5 @@
 {
-	"@context": ["https://schema.lab.fiware.org/ld/context",
+	"@context": ["https://smartdatamodels.org/context.jsonld",
 		"https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
 	],
 	"cameraName": "Cam2",
@@ -13,6 +13,7 @@
         "annotatedMap":"https://drive.google.com/file/d/1RXDGogU5UMmzRppqFaNKTzcr69Kl0wjb/view?usp=sharing"
     },
 	"location": {
+		"type":"Point",
 		"coordinates":[91.28076,23.831796]
 	},
 	"cameraNum": 2,
