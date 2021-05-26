@@ -46,3 +46,6 @@
 [submodule "dataModel.RiskManagement"]
 	path = dataModel.RiskManagement
 	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
+[submodule "dataModel.DCAT-AP"]
+	path = dataModel.DCAT-AP
+	url = https://github.com/smart-data-models/dataModel.DCAT-AP.git
