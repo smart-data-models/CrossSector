@@ -52,3 +52,6 @@
 [submodule "dataModel.CallComplaints"]
 	path = dataModel.CallComplaints
 	url = https://github.com/smart-data-models/dataModel.CallComplaints.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
