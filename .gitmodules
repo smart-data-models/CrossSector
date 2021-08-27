@@ -34,9 +34,6 @@
 [submodule "dataModel.RiskManagement"]
 	path = dataModel.RiskManagement
 	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
-[submodule "dataModel.FrictionlessData"]
-	path = dataModel.FrictionlessData
-	url = https://github.com/smart-data-models/dataModel.FrictionlessData.git
 [submodule "dataModel.Alert"]
 	path = dataModel.Alert
 	url = https://github.com/smart-data-models/dataModel.Alert.git
