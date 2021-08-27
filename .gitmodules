@@ -52,3 +52,6 @@
 [submodule "dataModel.PointOfInterest"]
 	path = dataModel.PointOfInterest
 	url = https://github.com/smart-data-models/dataModel.PointOfInterest.git
+[submodule "dataModel.QueueManagement"]
+	path = dataModel.QueueManagement
+	url = https://github.com/smart-data-models/dataModel.QueueManagement.git
