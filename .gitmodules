@@ -52,3 +52,6 @@
 [submodule "dataModel.RiskManagement"]
 	path = dataModel.RiskManagement
 	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
+[submodule "dataModel.SatelliteImagery"]
+	path = dataModel.SatelliteImagery
+	url = https://github.com/smart-data-models/dataModel.SatelliteImagery.git
