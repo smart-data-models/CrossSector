@@ -1,6 +1,3 @@
-[submodule "dataModel.PointOfInterest"]
-	path = dataModel.PointOfInterest
-	url = https://github.com/smart-data-models/dataModel.PointOfInterest.git
 [submodule "dataModel.PublicAccountability"]
 	path = dataModel.PublicAccountability
 	url = https://github.com/smart-data-models/dataModel.PublicAccountability.git
