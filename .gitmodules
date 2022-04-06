@@ -64,3 +64,6 @@
 [submodule "dataModel.DigitalInnovationHub"]
 	path = dataModel.DigitalInnovationHub
 	url = https://github.com/smart-data-models/dataModel.DigitalInnovationHub.git
+[submodule "dataModel.IT"]
+	path = dataModel.IT
+	url = https://github.com/smart-data-models/dataModel.IT.git
