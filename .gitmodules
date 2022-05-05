@@ -1,9 +1,6 @@
 [submodule "dataModel.Device"]
 	path = dataModel.Device
 	url = https://github.com/smart-data-models/dataModel.Device.git
-[submodule "dataModel.Weather"]
-	path = dataModel.Weather
-	url = https://github.com/smart-data-models/dataModel.Weather.git
 [submodule "dataModels.PublicAccountability"]
 	path = dataModels.PublicAccountability
 	url = https://github.com/smart-data-models/dataModels.PublicAccountability.git
