@@ -64,3 +64,6 @@
 [submodule "dataModel.QueueManagement"]
 	path = dataModel.QueueManagement
 	url = https://github.com/smart-data-models/dataModel.QueueManagement.git
+[submodule "dataModel.RiskManagement"]
+	path = dataModel.RiskManagement
+	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
