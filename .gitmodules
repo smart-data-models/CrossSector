@@ -1,9 +1,6 @@
 [submodule "dataModel.Device"]
 	path = dataModel.Device
 	url = https://github.com/smart-data-models/dataModel.Device.git
-[submodule "dataModel.DistributedLedgerTech"]
-	path = dataModel.DistributedLedgerTech
-	url = https://github.com/smart-data-models/dataModel.DistributedLedgerTech.git
 [submodule "dataModel.FrictionlessData"]
 	path = dataModel.FrictionlessData
 	url = https://github.com/smart-data-models/dataModel.FrictionlessData.git
