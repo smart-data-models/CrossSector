@@ -4,9 +4,6 @@
 [submodule "dataModels.PublicAccountability"]
 	path = dataModels.PublicAccountability
 	url = https://github.com/smart-data-models/dataModels.PublicAccountability.git
-[submodule "dataModel.Battery"]
-	path = dataModel.Battery
-	url = https://github.com/smart-data-models/dataModel.Battery.git
 [submodule "dataModel.CallComplaints"]
 	path = dataModel.CallComplaints
 	url = https://github.com/smart-data-models/dataModel.CallComplaints.git
