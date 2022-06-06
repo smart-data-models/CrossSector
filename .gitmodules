@@ -67,3 +67,6 @@
 [submodule "dataModel.CPSV-AP"]
 	path = dataModel.CPSV-AP
 	url = https://github.com/smart-data-models/dataModel.CPSV-AP.git
+[submodule "dataModel.CallComplaints"]
+	path = dataModel.CallComplaints
+	url = https://github.com/smart-data-models/dataModel.CallComplaints.git
