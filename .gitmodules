@@ -61,9 +61,6 @@
 [submodule "dataModel.Weather"]
 	path = dataModel.Weather
 	url = https://github.com/smart-data-models/dataModel.Weather.git
-[submodule "dataModel.CPSV-AP"]
-	path = dataModel.CPSV-AP
-	url = https://github.com/smart-data-models/dataModel.CPSV-AP.git
 [submodule "dataModel.Alert"]
 	path = dataModel.Alert
 	url = https://github.com/smart-data-models/dataModel.Alert.git
