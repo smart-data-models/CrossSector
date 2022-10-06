@@ -70,3 +70,6 @@
 [submodule "dataModel.Organization"]
 	path = dataModel.Organization
 	url = https://github.com/smart-data-models/dataModel.Organization.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
