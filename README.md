@@ -11,33 +11,33 @@ This GitHub repository contains links to the repositories where different groups
 
 ## List of subjects
 
-* [dataModel.User](https://github.com/smart-data-models/dataModel.User)
-* [dataModel.PointOfInteraction](https://github.com/smart-data-models/dataModel.PointOfInteraction)
-* [dataModel.KeyPerformanceIndicator](https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator)
-* [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
-* [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
-* [dataModel.IssueTracking](https://github.com/smart-data-models/dataModel.IssueTracking)
 * [dataModel.Alert](https://github.com/smart-data-models/dataModel.Alert)
 * [dataModel.Battery](https://github.com/smart-data-models/dataModel.Battery)
-* [dataModel.SatelliteImagery](https://github.com/smart-data-models/dataModel.SatelliteImagery)
-* [dataModel.Multimedia](https://github.com/smart-data-models/dataModel.Multimedia)
-* [dataModel.SocialMedia](https://github.com/smart-data-models/dataModel.SocialMedia)
-* [dataModel.QueueManagement](https://github.com/smart-data-models/dataModel.QueueManagement)
-* [dataModel.DistributedLedgerTech](https://github.com/smart-data-models/dataModel.DistributedLedgerTech)
-* [dataModel.MachineLearning](https://github.com/smart-data-models/dataModel.MachineLearning)
-* [dataModel.RiskManagement](https://github.com/smart-data-models/dataModel.RiskManagement)
-* [dataModel.DCAT-AP](https://github.com/smart-data-models/dataModel.DCAT-AP)
-* [dataModel.CallComplaints](https://github.com/smart-data-models/dataModel.CallComplaints)
-* [dataModel.FrictionlessData](https://github.com/smart-data-models/dataModel.FrictionlessData)
-* [dataModel.PublicAccountability](https://github.com/smart-data-models/dataModel.PublicAccountability)
-* [dataModel.DigitalInnovationHub](https://github.com/smart-data-models/dataModel.DigitalInnovationHub)
-* [dataModel.STAT-DCAT-AP](https://github.com/smart-data-models/dataModel.STAT-DCAT-AP)
-* [dataModel.IT](https://github.com/smart-data-models/dataModel.IT)
 * [dataModel.CPSV-AP](https://github.com/smart-data-models/dataModel.CPSV-AP)
+* [dataModel.CallComplaints](https://github.com/smart-data-models/dataModel.CallComplaints)
+* [dataModel.DCAT-AP](https://github.com/smart-data-models/dataModel.DCAT-AP)
+* [dataModel.DigitalInnovationHub](https://github.com/smart-data-models/dataModel.DigitalInnovationHub)
+* [dataModel.DistributedLedgerTech](https://github.com/smart-data-models/dataModel.DistributedLedgerTech)
+* [dataModel.FrictionlessData](https://github.com/smart-data-models/dataModel.FrictionlessData)
+* [dataModel.IT](https://github.com/smart-data-models/dataModel.IT)
+* [dataModel.IssueTracking](https://github.com/smart-data-models/dataModel.IssueTracking)
+* [dataModel.KeyPerformanceIndicator](https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator)
+* [dataModel.MachineLearning](https://github.com/smart-data-models/dataModel.MachineLearning)
+* [dataModel.Multimedia](https://github.com/smart-data-models/dataModel.Multimedia)
 * [dataModel.Organization](https://github.com/smart-data-models/dataModel.Organization)
-If you want to be update you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
-You can also rise a issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
+* [dataModel.PointOfInteraction](https://github.com/smart-data-models/dataModel.PointOfInteraction)
+* [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
+* [dataModel.PublicAccountability](https://github.com/smart-data-models/dataModel.PublicAccountability)
+* [dataModel.QueueManagement](https://github.com/smart-data-models/dataModel.QueueManagement)
+* [dataModel.RiskManagement](https://github.com/smart-data-models/dataModel.RiskManagement)
+* [dataModel.STAT-DCAT-AP](https://github.com/smart-data-models/dataModel.STAT-DCAT-AP)
+* [dataModel.SatelliteImagery](https://github.com/smart-data-models/dataModel.SatelliteImagery)
+* [dataModel.SocialMedia](https://github.com/smart-data-models/dataModel.SocialMedia)
+* [dataModel.User](https://github.com/smart-data-models/dataModel.User)
+* [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
+## SupportIf you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
+You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
 You can contribute by using the [contribution manual](https://bit.ly/contribution_manual) on the [incubated repository](https://github.com/smart-data-models/incubated/tree/master)
-finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
-follow us on [Twitter](https://twitter.com/smartdatamodels) and [Linkedin](https://www.linkedin.com/company/72642317/)
+Finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
+Follow us on [Twitter](https://twitter.com/smartdatamodels) and [Linkedin](https://www.linkedin.com/company/72642317/)
 
