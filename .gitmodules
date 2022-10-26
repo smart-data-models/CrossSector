@@ -4,9 +4,6 @@
 [submodule "dataModels.PublicAccountability"]
 	path = dataModels.PublicAccountability
 	url = https://github.com/smart-data-models/dataModels.PublicAccountability.git
-[submodule "dataModel.DCAT-AP"]
-	path = dataModel.DCAT-AP
-	url = https://github.com/smart-data-models/dataModel.DCAT-AP.git
 [submodule "dataModel.DigitalInnovationHub"]
 	path = dataModel.DigitalInnovationHub
 	url = https://github.com/smart-data-models/dataModel.DigitalInnovationHub.git
