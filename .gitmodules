@@ -76,3 +76,9 @@
 [submodule "dataModel.SDMX"]
 	path = dataModel.SDMX
 	url = https://github.com/smart-data-models/dataModel.SDMX.git
+[submodule "dataModels.DataQuality"]
+	path = dataModels.DataQuality
+	url = https://github.com/smart-data-models/dataModels.DataQuality.git
+[submodule "dataModel.DataQuality"]
+	path = dataModel.DataQuality
+	url = https://github.com/smart-data-models/dataModel.DataQuality.git
