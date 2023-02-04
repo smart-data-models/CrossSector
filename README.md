@@ -16,6 +16,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.CPSV-AP](https://github.com/smart-data-models/dataModel.CPSV-AP)
 * [dataModel.CallComplaints](https://github.com/smart-data-models/dataModel.CallComplaints)
 * [dataModel.DCAT-AP](https://github.com/smart-data-models/dataModel.DCAT-AP)
+* [dataModel.DataQuality](https://github.com/smart-data-models/dataModel.DataQuality)
 * [dataModel.DigitalInnovationHub](https://github.com/smart-data-models/dataModel.DigitalInnovationHub)
 * [dataModel.DistributedLedgerTech](https://github.com/smart-data-models/dataModel.DistributedLedgerTech)
 * [dataModel.FrictionlessData](https://github.com/smart-data-models/dataModel.FrictionlessData)
