@@ -36,6 +36,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.SatelliteImagery](https://github.com/smart-data-models/dataModel.SatelliteImagery)
 * [dataModel.SocialMedia](https://github.com/smart-data-models/dataModel.SocialMedia)
 * [dataModel.User](https://github.com/smart-data-models/dataModel.User)
+* [dataModel.VerifiableCredentials](https://github.com/smart-data-models/dataModel.VerifiableCredentials)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
