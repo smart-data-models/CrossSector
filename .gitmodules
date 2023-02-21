@@ -82,3 +82,6 @@
 [submodule "dataModel.VerifiableCredentials"]
 	path = dataModel.VerifiableCredentials
 	url = https://github.com/smart-data-models/dataModel.VerifiableCredentials.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
