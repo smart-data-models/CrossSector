@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.SocialMedia"]
-	path = dataModel.SocialMedia
-	url = https://github.com/smart-data-models/dataModel.SocialMedia.git
 [submodule "dataModel.User"]
 	path = dataModel.User
 	url = https://github.com/smart-data-models/dataModel.User.git
