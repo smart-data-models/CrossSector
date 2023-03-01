@@ -82,3 +82,6 @@
 [submodule "dataModel.RiskManagement"]
 	path = dataModel.RiskManagement
 	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
+[submodule "dataModel.SDMX"]
+	path = dataModel.SDMX
+	url = https://github.com/smart-data-models/dataModel.SDMX.git
