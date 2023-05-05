@@ -31,6 +31,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.PublicAccountability](https://github.com/smart-data-models/dataModel.PublicAccountability)
 * [dataModel.QueueManagement](https://github.com/smart-data-models/dataModel.QueueManagement)
 * [dataModel.RiskManagement](https://github.com/smart-data-models/dataModel.RiskManagement)
+* [dataModel.S4SYST](https://github.com/smart-data-models/dataModel.S4SYST)
 * [dataModel.SDMX](https://github.com/smart-data-models/dataModel.SDMX)
 * [dataModel.STAT-DCAT-AP](https://github.com/smart-data-models/dataModel.STAT-DCAT-AP)
 * [dataModel.SatelliteImagery](https://github.com/smart-data-models/dataModel.SatelliteImagery)
