@@ -85,3 +85,6 @@
 [submodule "dataModel.S4SYST"]
 	path = dataModel.S4SYST
 	url = https://github.com/smart-data-models/dataModel.S4SYST.git
+[submodule "dataModel.Alert"]
+	path = dataModel.Alert
+	url = https://github.com/smart-data-models/dataModel.Alert.git
