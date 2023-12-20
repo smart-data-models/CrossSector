@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.Organization"]
-	path = dataModel.Organization
-	url = https://github.com/smart-data-models/dataModel.Organization.git
 [submodule "dataModel.PointOfInteraction"]
 	path = dataModel.PointOfInteraction
 	url = https://github.com/smart-data-models/dataModel.PointOfInteraction.git
