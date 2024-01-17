@@ -20,6 +20,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.DigitalInnovationHub](https://github.com/smart-data-models/dataModel.DigitalInnovationHub)
 * [dataModel.DistributedLedgerTech](https://github.com/smart-data-models/dataModel.DistributedLedgerTech)
 * [dataModel.FrictionlessData](https://github.com/smart-data-models/dataModel.FrictionlessData)
+* [dataModel.HumanResources](https://github.com/smart-data-models/dataModel.HumanResources)
 * [dataModel.IT](https://github.com/smart-data-models/dataModel.IT)
 * [dataModel.IssueTracking](https://github.com/smart-data-models/dataModel.IssueTracking)
 * [dataModel.KeyPerformanceIndicator](https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator)
