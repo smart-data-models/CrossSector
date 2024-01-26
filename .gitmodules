@@ -97,3 +97,6 @@
 [submodule "dataModel.FrictionlessData"]
 	path = dataModel.FrictionlessData
 	url = https://github.com/smart-data-models/dataModel.FrictionlessData.git
+[submodule "dataModel.HumanResources"]
+	path = dataModel.HumanResources
+	url = https://github.com/smart-data-models/dataModel.HumanResources.git
