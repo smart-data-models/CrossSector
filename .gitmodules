@@ -94,3 +94,6 @@
 [submodule "dataModel.WifiNetwork"]
 	path = dataModel.WifiNetwork
 	url = https://github.com/smart-data-models/dataModel.WifiNetwork.git
+[submodule "dataModel.STAT-DCAT-AP"]
+	path = dataModel.STAT-DCAT-AP
+	url = https://github.com/smart-data-models/dataModel.STAT-DCAT-AP.git
