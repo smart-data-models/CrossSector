@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.KeyPerformanceIndicator"]
-	path = dataModel.KeyPerformanceIndicator
-	url = https://github.com/smart-data-models/dataModel.KeyPerformanceIndicator.git
 [submodule "dataModel.MachineLearning"]
 	path = dataModel.MachineLearning
 	url = https://github.com/smart-data-models/dataModel.MachineLearning.git
