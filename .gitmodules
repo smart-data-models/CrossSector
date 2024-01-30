@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.STAT-DCAT-AP"]
-	path = dataModel.STAT-DCAT-AP
-	url = https://github.com/smart-data-models/dataModel.STAT-DCAT-AP.git
 [submodule "dataModel.SatelliteImagery"]
 	path = dataModel.SatelliteImagery
 	url = https://github.com/smart-data-models/dataModel.SatelliteImagery.git
