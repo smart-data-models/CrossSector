@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.DistributedLedgerTech"]
-	path = dataModel.DistributedLedgerTech
-	url = https://github.com/smart-data-models/dataModel.DistributedLedgerTech.git
 [submodule "dataModel.FrictionlessData"]
 	path = dataModel.FrictionlessData
 	url = https://github.com/smart-data-models/dataModel.FrictionlessData.git
