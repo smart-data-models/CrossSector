@@ -100,3 +100,6 @@
 [submodule "dataModel.HumanResources"]
 	path = dataModel.HumanResources
 	url = https://github.com/smart-data-models/dataModel.HumanResources.git
+[submodule "dataModel.IT"]
+	path = dataModel.IT
+	url = https://github.com/smart-data-models/dataModel.IT.git
