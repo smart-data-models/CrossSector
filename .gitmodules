@@ -100,3 +100,6 @@
 [submodule "dataModel.DCAT-AP"]
 	path = dataModel.DCAT-AP
 	url = https://github.com/smart-data-models/dataModel.DCAT-AP.git
+[submodule "dataModel.DataQuality"]
+	path = dataModel.DataQuality
+	url = https://github.com/smart-data-models/dataModel.DataQuality.git
