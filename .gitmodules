@@ -100,3 +100,6 @@
 [submodule "dataModel.RiskManagement"]
 	path = dataModel.RiskManagement
 	url = https://github.com/smart-data-models/dataModel.RiskManagement.git
+[submodule "dataModel.S4SYST"]
+	path = dataModel.S4SYST
+	url = https://github.com/smart-data-models/dataModel.S4SYST.git
