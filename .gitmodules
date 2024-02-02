@@ -31,9 +31,6 @@
 [submodule "dataModel.WifiNetwork"]
 	path = dataModel.WifiNetwork
 	url = https://github.com/smart-data-models/dataModel.WifiNetwork.git
-[submodule "dataModel.SDG"]
-	path = dataModel.SDG
-	url = https://github.com/smart-data-models/dataModel.SDG.git
 [submodule "dataModel.Alert"]
 	path = dataModel.Alert
 	url = https://github.com/smart-data-models/dataModel.Alert.git
