@@ -100,3 +100,6 @@
 [submodule "dataModel.VerifiableCredentials"]
 	path = dataModel.VerifiableCredentials
 	url = https://github.com/smart-data-models/dataModel.VerifiableCredentials.git
+[submodule "dataModel.Weather"]
+	path = dataModel.Weather
+	url = https://github.com/smart-data-models/dataModel.Weather.git
