@@ -100,3 +100,6 @@
 [submodule "dataModel.SDG"]
 	path = dataModel.SDG
 	url = https://github.com/smart-data-models/dataModel.SDG.git
+[submodule "dataModel.SDMX"]
+	path = dataModel.SDMX
+	url = https://github.com/smart-data-models/dataModel.SDMX.git
