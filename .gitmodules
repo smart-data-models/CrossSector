@@ -7,9 +7,6 @@
 [submodule "dataModels.DataQuality"]
 	path = dataModels.DataQuality
 	url = https://github.com/smart-data-models/dataModels.DataQuality.git
-[submodule "dataModel.WifiNetwork"]
-	path = dataModel.WifiNetwork
-	url = https://github.com/smart-data-models/dataModel.WifiNetwork.git
 [submodule "dataModel.Alert"]
 	path = dataModel.Alert
 	url = https://github.com/smart-data-models/dataModel.Alert.git
