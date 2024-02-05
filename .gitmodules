@@ -100,3 +100,6 @@
 [submodule "dataModel.DataQuality"]
 	path = dataModel.DataQuality
 	url = https://github.com/smart-data-models/dataModel.DataQuality.git
+[submodule "dataModel.DigitalInnovationHub"]
+	path = dataModel.DigitalInnovationHub
+	url = https://github.com/smart-data-models/dataModel.DigitalInnovationHub.git
