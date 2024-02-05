@@ -100,3 +100,6 @@
 [submodule "dataModel.SDMX"]
 	path = dataModel.SDMX
 	url = https://github.com/smart-data-models/dataModel.SDMX.git
+[submodule "dataModel.STAT-DCAT-AP"]
+	path = dataModel.STAT-DCAT-AP
+	url = https://github.com/smart-data-models/dataModel.STAT-DCAT-AP.git
