@@ -76,9 +76,6 @@
 [submodule "dataModel.WifiNetwork"]
 	path = dataModel.WifiNetwork
 	url = https://github.com/smart-data-models/dataModel.WifiNetwork.git
-[submodule "dataModel.Gaia-X"]
-	path = dataModel.Gaia-X
-	url = https://github.com/smart-data-models/dataModel.Gaia-X.git
 [submodule "dataModel.Alert"]
 	path = dataModel.Alert
 	url = https://github.com/smart-data-models/dataModel.Alert.git
