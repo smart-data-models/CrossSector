@@ -43,6 +43,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.User](https://github.com/smart-data-models/dataModel.User)
 * [dataModel.VerifiableCredentials](https://github.com/smart-data-models/dataModel.VerifiableCredentials)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
+* [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
 You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
