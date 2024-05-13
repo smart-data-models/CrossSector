@@ -103,3 +103,6 @@
 [submodule "dataModel.SAREF"]
 	path = dataModel.SAREF
 	url = https://github.com/smart-data-models/dataModel.SAREF.git
+[submodule "dataModel.SDG"]
+	path = dataModel.SDG
+	url = https://github.com/smart-data-models/dataModel.SDG.git
