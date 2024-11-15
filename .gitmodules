@@ -106,3 +106,6 @@
 [submodule "dataModel.WifiNetwork"]
 	path = dataModel.WifiNetwork
 	url = https://github.com/smart-data-models/dataModel.WifiNetwork.git
+[submodule "dataModel.SmartDataModels"]
+	path = dataModel.SmartDataModels
+	url = https://github.com/smart-data-models/dataModel.SmartDataModels.git
