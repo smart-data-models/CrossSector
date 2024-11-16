@@ -39,6 +39,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.SDMX](https://github.com/smart-data-models/dataModel.SDMX)
 * [dataModel.STAT-DCAT-AP](https://github.com/smart-data-models/dataModel.STAT-DCAT-AP)
 * [dataModel.SatelliteImagery](https://github.com/smart-data-models/dataModel.SatelliteImagery)
+* [dataModel.SmartDataModels](https://github.com/smart-data-models/dataModel.SmartDataModels)
 * [dataModel.SocialMedia](https://github.com/smart-data-models/dataModel.SocialMedia)
 * [dataModel.User](https://github.com/smart-data-models/dataModel.User)
 * [dataModel.VerifiableCredentials](https://github.com/smart-data-models/dataModel.VerifiableCredentials)
