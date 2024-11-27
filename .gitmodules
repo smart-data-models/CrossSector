@@ -109,3 +109,6 @@
 [submodule "dataModel.SmartDataModels"]
 	path = dataModel.SmartDataModels
 	url = https://github.com/smart-data-models/dataModel.SmartDataModels.git
+[submodule "dataModel.DataSpace"]
+	path = dataModel.DataSpace
+	url = https://github.com/smart-data-models/dataModel.DataSpace.git
