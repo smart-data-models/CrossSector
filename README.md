@@ -17,6 +17,7 @@ This GitHub repository contains links to the repositories where different groups
 * [dataModel.CallComplaints](https://github.com/smart-data-models/dataModel.CallComplaints)
 * [dataModel.DCAT-AP](https://github.com/smart-data-models/dataModel.DCAT-AP)
 * [dataModel.DataQuality](https://github.com/smart-data-models/dataModel.DataQuality)
+* [dataModel.DataSpace](https://github.com/smart-data-models/dataModel.DataSpace)
 * [dataModel.DigitalInnovationHub](https://github.com/smart-data-models/dataModel.DigitalInnovationHub)
 * [dataModel.DistributedLedgerTech](https://github.com/smart-data-models/dataModel.DistributedLedgerTech)
 * [dataModel.FrictionlessData](https://github.com/smart-data-models/dataModel.FrictionlessData)
