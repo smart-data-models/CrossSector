@@ -115,3 +115,6 @@
 [submodule "dataModel.OpenStreetMap/dataModel.OpenStreetMap"]
 	path = dataModel.OpenStreetMap/dataModel.OpenStreetMap
 	url = https://github.com/smart-data-models/dataModel.OpenStreetMap.git
+[submodule "dataModel.OpenStreetMap"]
+	path = dataModel.OpenStreetMap
+	url = https://github.com/smart-data-models/dataModel.OpenStreetMap.git
