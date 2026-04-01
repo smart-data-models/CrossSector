@@ -112,3 +112,6 @@
 [submodule "dataModel.DataSpace"]
 	path = dataModel.DataSpace
 	url = https://github.com/smart-data-models/dataModel.DataSpace.git
+[submodule "dataModel.OpenStreetMap/dataModel.OpenStreetMap"]
+	path = dataModel.OpenStreetMap/dataModel.OpenStreetMap
+	url = https://github.com/smart-data-models/dataModel.OpenStreetMap.git
